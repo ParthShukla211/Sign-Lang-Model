@@ -1,6 +1,6 @@
 from keras.models import load_model
 import keras
-classifier = load_model('TRAINED_INDIAN_DATA_FINAL_MODEL.h5')
+classifier = load_model('FINAL_MODEL_FULL_DATA.h5')
 # classifier.evaluate()
 
 #Prediction of single image

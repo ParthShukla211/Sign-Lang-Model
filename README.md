@@ -6,7 +6,7 @@
 #### 2. Put it all in the same directory.
 #### 3. Run the file: cnn_model_new.py
 #### 4. It will generate the new model named: FINAL_MODEL_FULL_DATA.h5
-#### 5. To check the model run test_model.py
+#### 5. To check the model run test_model_final.py
 #### 6. To check on live window run: recogbniose_final_sound.py
 #### 7 Done.
 
